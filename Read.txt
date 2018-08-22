@@ -3,3 +3,4 @@ local 2
 remote 3
 local and remote 4
 local and remote 5
+local 6
