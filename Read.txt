@@ -1,2 +1,3 @@
 local 1
 deleted lines 2 through 8 and replaced line 2 with this text
+remote 3
